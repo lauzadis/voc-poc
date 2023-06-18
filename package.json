@@ -5,8 +5,8 @@
   "main": "index.js",
   "dependencies": {
     "int-to-binary": "^1.0.2",
-    "usb": "^1.7.1",
-    "yargs": "^17.0.1"
+    "usb": "^2.9.0",
+    "yargs": "^17.7.2"
   },
   "devDependencies": {},
   "scripts": {
